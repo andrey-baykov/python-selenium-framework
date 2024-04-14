@@ -1,0 +1,64 @@
+2024-04-14 01:07:18 - sauceDemo - INFO - Application started
+2024-04-14 01:07:18 - sauceDemo - INFO - Reading configuration from JSON file
+2024-04-14 01:07:18 - sauceDemo - INFO - Starting driver setup
+2024-04-14 01:07:20 - sauceDemo - INFO - Returning the base URL
+2024-04-14 01:07:20 - sauceDemo - INFO - Returning credentials for a specific user
+2024-04-14 01:07:20 - sauceDemo - INFO - Starting test_standard_user_can_complete_purchase
+2024-04-14 01:07:20 - sauceDemo - INFO - WebDriver initialized successfully
+2024-04-14 01:07:20 - sauceDemo - INFO - Opening the page: https://www.saucedemo.com/
+2024-04-14 01:07:21 - sauceDemo - INFO - Login page opened successfully with title 'Swag Labs
+2024-04-14 01:07:21 - sauceDemo - INFO - User logged in successfully
+2024-04-14 01:07:21 - sauceDemo - INFO - Verifying the products page
+2024-04-14 01:07:21 - sauceDemo - INFO - Product page loaded successfully
+2024-04-14 01:07:21 - sauceDemo - INFO - Verifying if elements are sorted in az order
+2024-04-14 01:07:21 - sauceDemo - INFO - Product names are sorted correctly in az order
+2024-04-14 01:07:21 - sauceDemo - INFO - Verifying if elements are sorted in za order
+2024-04-14 01:07:21 - sauceDemo - INFO - Product names are sorted correctly in za order
+2024-04-14 01:07:21 - sauceDemo - INFO - Verifying if elements are sorted in lohi order
+2024-04-14 01:07:21 - sauceDemo - INFO - Product prices are sorted correctly in lohi order
+2024-04-14 01:07:21 - sauceDemo - INFO - Verifying if elements are sorted in hilo order
+2024-04-14 01:07:21 - sauceDemo - INFO - Product prices are sorted correctly in hilo order
+2024-04-14 01:07:21 - sauceDemo - INFO - Adding 3 items to cart
+2024-04-14 01:07:21 - sauceDemo - INFO - Item 1 added to cart
+2024-04-14 01:07:21 - sauceDemo - INFO - Cart badge displayed
+2024-04-14 01:07:21 - sauceDemo - INFO - Item 2 added to cart
+2024-04-14 01:07:21 - sauceDemo - INFO - Cart badge displayed
+2024-04-14 01:07:22 - sauceDemo - INFO - Item 3 added to cart
+2024-04-14 01:07:22 - sauceDemo - INFO - Cart badge displayed
+2024-04-14 01:07:22 - sauceDemo - INFO - Cart has 3 items
+2024-04-14 01:07:22 - sauceDemo - INFO - Verifying Checkout: Your Information page
+2024-04-14 01:07:22 - sauceDemo - INFO - Filling checkout data
+2024-04-14 01:07:22 - sauceDemo - INFO - Verifying Checkout: Overview page
+2024-04-14 01:07:22 - sauceDemo - DEBUG - Verifying checkout overview page not implemented
+2024-04-14 01:07:22 - sauceDemo - INFO - Checkout completed
+2024-04-14 01:07:22 - sauceDemo - INFO - Verifying Checkout: Complete! page
+2024-04-14 01:07:22 - sauceDemo - INFO - Checkout complete page verified
+2024-04-14 01:07:22 - sauceDemo - INFO - Verifying the products page
+2024-04-14 01:07:23 - sauceDemo - INFO - User logged out successfully
+2024-04-14 01:07:23 - sauceDemo - INFO - Reading configuration from JSON file
+2024-04-14 01:07:23 - sauceDemo - INFO - Starting driver setup
+2024-04-14 01:07:24 - sauceDemo - INFO - Returning the base URL
+2024-04-14 01:07:24 - sauceDemo - INFO - Returning credentials for a specific user
+2024-04-14 01:07:24 - sauceDemo - INFO - Starting test_locked_out_user_cannot_login
+2024-04-14 01:07:24 - sauceDemo - INFO - WebDriver initialized successfully
+2024-04-14 01:07:24 - sauceDemo - INFO - Opening the page: https://www.saucedemo.com/
+2024-04-14 01:07:25 - sauceDemo - INFO - Login page opened successfully with title 'Swag Labs
+2024-04-14 01:07:25 - sauceDemo - INFO - User locked out successfully
+2024-04-14 01:07:25 - sauceDemo - INFO - Reading configuration from JSON file
+2024-04-14 01:07:25 - sauceDemo - INFO - Starting driver setup
+2024-04-14 01:07:27 - sauceDemo - INFO - Returning the base URL
+2024-04-14 01:07:27 - sauceDemo - INFO - Returning credentials for a specific user
+2024-04-14 01:07:27 - sauceDemo - INFO - Starting test_problem_user_encounters_issues
+2024-04-14 01:07:27 - sauceDemo - INFO - WebDriver initialized successfully
+2024-04-14 01:07:27 - sauceDemo - INFO - Opening the page: https://www.saucedemo.com/
+2024-04-14 01:07:27 - sauceDemo - INFO - Login page opened successfully with title 'Swag Labs
+2024-04-14 01:07:27 - sauceDemo - INFO - User logged in successfully
+2024-04-14 01:07:27 - sauceDemo - INFO - Verifying the products page
+2024-04-14 01:07:27 - sauceDemo - INFO - Getting image sources from the API
+2024-04-14 01:07:27 - sauceDemo - INFO - Verifying image source
+2024-04-14 01:07:27 - sauceDemo - ERROR - Image source actual '/static/media/sl-404.168b1cce.jpg' not as expected '/static/media/sauce-backpack-1200x1500.0a0b85a3.jpg'
+2024-04-14 01:07:27 - sauceDemo - ERROR - Image source actual '/static/media/sl-404.168b1cce.jpg' not as expected '/static/media/bike-light-1200x1500.37c843b0.jpg'
+2024-04-14 01:07:27 - sauceDemo - ERROR - Image source actual '/static/media/sl-404.168b1cce.jpg' not as expected '/static/media/bolt-shirt-1200x1500.c2599ac5.jpg'
+2024-04-14 01:07:27 - sauceDemo - ERROR - Image source actual '/static/media/sl-404.168b1cce.jpg' not as expected '/static/media/sauce-pullover-1200x1500.51d7ffaf.jpg'
+2024-04-14 01:07:27 - sauceDemo - ERROR - Image source actual '/static/media/sl-404.168b1cce.jpg' not as expected '/static/media/red-onesie-1200x1500.2ec615b2.jpg'
+2024-04-14 01:07:27 - sauceDemo - ERROR - Image source actual '/static/media/sl-404.168b1cce.jpg' not as expected '/static/media/red-tatt-1200x1500.30dadef4.jpg'

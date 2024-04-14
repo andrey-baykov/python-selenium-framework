@@ -1,0 +1,7 @@
+{
+  "standard": ["standard_user", "secret_sauce"],
+  "locked_out": ["locked_out_user", "secret_sauce"],
+  "problem": ["problem_user", "secret_sauce"],
+  "browser": "chrome",
+  "base_url": "https://www.saucedemo.com/"
+}
