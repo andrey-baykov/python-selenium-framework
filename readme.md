@@ -10,7 +10,7 @@
 ## How to install?
 Clone project from GitHub
 ```bash
-git clone TODO
+git clone https://github.com/andrey-baykov/python-selenium-framework.git
 ```
 Install all required packages
 ```bash
